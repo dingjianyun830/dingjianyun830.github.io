@@ -26,16 +26,16 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yuqi Ding and I'm a PhD student at Lousiana State Univerisity. My advisor is Dr. Jinwei Ye.
 
-  This is my [CV] (https://www.youtube.com/watch?v=vtg4o__aRMg).
+  This is my [CV](https://www.youtube.com/watch?v=vtg4o__aRMg).
 
 #Education Section
-educaton_title: Education1
+educaton_title: Education11
 
 #Projects Section
-projects_title: Projects1
+projects_title: Projects11
 
 #Experience Section
-experience_title: Experience1
+experience_title: Experience11
 
 # More Section
 # more_title: A Little More About Me
