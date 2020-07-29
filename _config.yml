@@ -29,13 +29,13 @@ about_content: | # this will include new lines to allow paragraphs
   This is my [CV](https://www.youtube.com/watch?v=vtg4o__aRMg).
 
 #Education Section
-educaton_title: Education11
+educaton_title: Education
 
 #Projects Section
-projects_title: Projects11
+projects_title: Publications
 
 #Experience Section
-experience_title: Experience11
+experience_title: Experiences
 
 # More Section
 # more_title: A Little More About Me
