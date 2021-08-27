@@ -1,0 +1,6 @@
+Hi, I'm Yuqi Ding.
+Now, I am a PhD student at Louisiana State University.   
+My advisor is Dr. Jinwei Ye.
+My research interest is Computational Photography, Computer Graphical, Computer Vision, and Autonomous Driving.
+Before LSU, I was a Sr. algorithm development engineer at OmniVision Inc. 
+I obtained MS and BS degrees at Wuhan University. 
